@@ -1,3 +1,4 @@
+经过测试，只能做英文。至于能否提取中文三元组，待进一步研究。
 # Python wrapper for Stanford OpenIE
 
 The unofficial cross-platform Python wrapper for the <b>state-of-art</b> information extraction library from Stanford University.
